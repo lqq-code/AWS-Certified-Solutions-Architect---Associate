@@ -4,9 +4,19 @@
 
 |  Course                                                                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [MyWordPress](#mywordpress)                                                                                            |       
 | [Instantiating application quickly](#instantiating-application-quickly)                                                                                            |                      
 | [Beanstalk Overview](#beanstalk-overview)                                                                                                                          |
- ### Instantiating application quickly
+
+### MyWordPress
+![e426d4ba0c04227b2d60218dd7dabf8](https://user-images.githubusercontent.com/61107184/217195820-02777b67-cbc6-4a7f-85fd-a73a40c8ab58.png)
+![4934a5d468c11c75f5f521f188cc01e](https://user-images.githubusercontent.com/61107184/217195834-197233c4-6636-4ce8-8334-ec49bca29723.png)
+![cf450bb0be9caf41071b48b1ca75ff8](https://user-images.githubusercontent.com/61107184/217195842-b7be6df8-c6da-4ba8-955e-f89d2c4cea44.png)
+![ce28f6d169bbc10f4c45ddabc7fe55b](https://user-images.githubusercontent.com/61107184/217195853-58b5d0b1-465b-4cbd-a639-018fe687917c.png)
+![6a47d9f95bef29af40d5af243ac745a](https://user-images.githubusercontent.com/61107184/217195890-d32dc164-c94d-40c5-8332-55f7fb145dd3.png)
+      **[⬆ Back to Top](#table-of-contents)**
+      
+### Instantiating application quickly
 ![a19b4b5f3e51db1971feb5bb2eebd8f](https://user-images.githubusercontent.com/61107184/217189876-96f86548-8d17-4a3a-ac1d-8b461f5e02f3.png)
 ![60aa364da310e3b5285733633848061](https://user-images.githubusercontent.com/61107184/217189900-20223137-4ec2-47d5-92e8-e99b60978918.png)
       **[⬆ Back to Top](#table-of-contents)**
