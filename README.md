@@ -9,6 +9,9 @@
 | [MyWordPress](#mywordpress)                                                                                                                                        |       
 | [Instantiating application quickly](#instantiating-application-quickly)                                                                                            |                      
 | [Beanstalk Overview](#beanstalk-overview)                                                                                                                          |
+| [Amazon S3 Section Introduction](#amazon-s3-section-introduction)                                                                                                  |
+| [S3 buckets and Objects](#s3-buckets-and-objects)                                                                                                                  |
+| [S3 Versioning](#s3-versioning)                                                                                                                                    |
 ### WhatsTheTime
 ![697219aaf3e5dd2ac84db8daba80e5d](https://user-images.githubusercontent.com/61107184/217196957-c312a2bf-f646-4256-bc91-e1fd93d71fae.png)
 ![6eb3a95f2b2e2bebe40991d02f8577b](https://user-images.githubusercontent.com/61107184/217197205-998e381b-a149-49eb-8779-88b0948aba14.png)
@@ -51,3 +54,18 @@
 ![e0d2dffb75c2a6110fc81a2771dec43](https://user-images.githubusercontent.com/61107184/217192711-0701c4ee-e4bf-4e7a-9756-e704c59fdcbd.png)
 ![58ac76c811016f80612598c86c7ff41](https://user-images.githubusercontent.com/61107184/217192722-ff43468a-5bb2-4a34-bd8b-e34971d6042c.png)
       **[⬆ Back to Top](#table-of-contents)**
+      
+### Amazon S3 Section Introduction
+![d93f4e32abb714061759d5f3153c024](https://user-images.githubusercontent.com/61107184/217756352-c3470b9a-a5eb-480a-a69e-781222d201f9.png)
+      **[⬆ Back to Top](#table-of-contents)**
+
+### S3 buckets and Objects
+![990c937d9f8f26f12ba0b8a2713055e](https://user-images.githubusercontent.com/61107184/217756809-1d1b08cb-a498-42ec-930e-09e0687c3543.png)
+![3d4cfb2c8420711083bc8f564b3e930](https://user-images.githubusercontent.com/61107184/217756818-9ad45c6c-4225-4ac9-82ba-8620066f175c.png)
+![36cb9c91513808ac5a85092bf08f07d](https://user-images.githubusercontent.com/61107184/217756836-29fcda5f-fee9-404e-9236-9d6284adc959.png)
+      **[⬆ Back to Top](#table-of-contents)**
+
+### S3 Versioning
+![7b232094b309e5f9e9b04091739b2a3](https://user-images.githubusercontent.com/61107184/217757010-afa43d90-0759-4cab-9437-4399a9eeb121.png)
+      **[⬆ Back to Top](#table-of-contents)**
+
